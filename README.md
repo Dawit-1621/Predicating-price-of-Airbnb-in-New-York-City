@@ -1,5 +1,23 @@
 # Predicating price of Airbnb in New York City
-Context Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.
+**Table of Contents**</br>
+* Importing Libraries
+* Loading the dataset
+* Data Visualization
+* Regression Analysis
+  * Linear Regression
 
-Content This data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
+**Importing Libraries**</br>
+* numpy
+* pandas
+* matplotlib
+* sklearn
+
+**Loading the dataset**
 The dataset I will use for the development of predication model is available on https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data.
+**Data Visualization**<.br>
+* Matplotlib and Seaborn visualization 
+ **Regression Analysis**<br>
+  * Linear Regression: In statistics, linear regression is a linear approach to modeling the relationship between a scalar response (or dependent variable) and one or more explanatory variables (or independent variables). 
+  
+  ## Licensing, Authors, Acknowledgements
+  I Acknowledge the https://www.airbnb.com/new-york-ny/stays and Kaggel https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data. For making the dataset available free for data scientist to exercise on real dataset
