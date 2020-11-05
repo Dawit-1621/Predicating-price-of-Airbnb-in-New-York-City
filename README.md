@@ -30,4 +30,4 @@ In order to evaluate the performance of the model, three evaluation metrics:-</b
 2. Mean Squared Error and 
 2. Root mean squared error 
 ## Licensing, Authors, Acknowledgements
-  I Acknowledge the https://www.airbnb.com/new-york-ny/stays and Kaggel https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data. For making the dataset available free for data scientist to exercise on real dataset
+I Acknowledge the https://www.airbnb.com/new-york-ny/stays and Kaggel https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data. For making the dataset available free for data scientist to exercise on real dataset
