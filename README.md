@@ -1,6 +1,5 @@
 # Predicating price of Airbnb in New York City
 
-## Installation
 **Importing Libraries**</br>
 * numpy
 * pandas
