@@ -6,8 +6,11 @@
 * pandas
 * matplotlib
 * sklearn
+* keras
+
 ## Project Motivation
 This project is about at how to choose where to stay when traveling to New York based on Airbnb dataset. The project a simple regression model that predicts price based on different factors. I’m interested to work on this project because I want to work on the Business and data understanding and finally to develop regression model. </br>
+
 ## File Descriptions 
 **Business Understanding**</br>
 Things to be consider when you choose where to stay when you are traveling to New York, such as:
