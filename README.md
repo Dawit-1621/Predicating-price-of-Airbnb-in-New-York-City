@@ -14,9 +14,9 @@ This project is about at how to choose where to stay when traveling to New York 
 ## File Descriptions 
 **Business Understanding**</br>
 Things to be consider when you choose where to stay when you are traveling to New York, such as:
--Which neighborhood group has an affordable price?
--Where to stay in New York?
--Availability of Room service?</br?
+* Which neighborhood group has an affordable price?
+* Where to stay in New York?
+* Availability of Room service? 
 ## Data understanding 
 Data preparation and cleansing process has been done to develop model.</br>
 **Loading the dataset**</br>
