@@ -23,6 +23,7 @@ Things to be consider when you choose where to stay when you are traveling to Ne
 Data preparation and cleansing process has been done to develop model.</br>
 **Loading the dataset**</br>
 The dataset I will use for the development of predication model is available on https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data.</br>
+
 **Data Visualization**</br>
 * Matplotlib and Seaborn visualization </br>
 ## Modeling 
