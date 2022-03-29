@@ -29,6 +29,7 @@ The dataset I will use for the development of predication model is available on 
 
 ## Modeling 
 Linear regression model is develop to predict the price.</br>
+
 **Regression Analysis**</br>
   * Linear Regression: In statistics, linear regression is a linear approach to modeling the relationship between a scalar response (or dependent variable) and one or more explanatory variables (or independent variables). 
   
