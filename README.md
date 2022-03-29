@@ -18,6 +18,7 @@ Things to be consider when you choose where to stay when you are traveling to Ne
 * Which neighborhood group has an affordable price?
 * Where to stay in New York?
 * Availability of Room service? 
+
 ## Data understanding 
 Data preparation and cleansing process has been done to develop model.</br>
 **Loading the dataset**</br>
