@@ -26,6 +26,7 @@ The dataset I will use for the development of predication model is available on 
 
 **Data Visualization**</br>
 * Matplotlib and Seaborn visualization </br>
+
 ## Modeling 
 Linear regression model is develop to predict the price.</br>
 **Regression Analysis**</br>
