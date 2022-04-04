@@ -2,6 +2,7 @@
 
 ## Importing Libraries
 **Importing Libraries**</br>
+
 * numpy
 * pandas
 * matplotlib
@@ -14,12 +15,14 @@ This project is about at how to choose where to stay when traveling to New York 
 ## File Descriptions 
 
 **Business Understanding**</br>
+
 Things to be consider when you choose where to stay when you are traveling to New York, such as:
 * Which neighborhood group has an affordable price?
 * Where to stay in New York?
 * Availability of Room service? 
 
 ## Data understanding 
+
 Data preparation and cleansing process has been done to develop model.</br>
 **Loading the dataset**</br>
 The dataset I will use for the development of predication model is available on https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data.</br>
